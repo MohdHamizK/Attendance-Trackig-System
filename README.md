@@ -1,4 +1,12 @@
-📊 Attendance Tracking System
+<div align="center">
+  <br />
+    <a href="https://www.linkedin.com/in/mohammed-hamiz-k-5b1974272/" target="_blank">
+      <img src="attendance-system.png" alt="Project Banner">
+    </a>
+  <br />
+
+  <h3 align="center">📊 Attendance Tracking System</h3> 
+</div>
 
 The Attendance Tracking System is a web-based application designed to streamline and visualize student attendance using an interactive interface and real-time data visualization. This project is meant to create an advanced attendance taking system to help teachers, students and college administration by automating the entire process. Developed with HTML, CSS, and XAMPP (Apache + MySQL + PHP), the system allows users to view, record, and analyze attendance data efficiently. A standout feature is the statistical representation of daily attendance via dynamic pie charts, providing quick insights into student presence on any selected date.
 
