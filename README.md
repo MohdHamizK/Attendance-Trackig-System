@@ -67,7 +67,7 @@ On selecting April 15, 2025, a student can instantly see:
 
 Displayed in an animated, colorful pie chart with labels for clarity.
 
-Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-hamiz-k-5b1974272/)
+Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedhamizk)
 
 Follow me on Kaggle : [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mohammedhamizk)
 
